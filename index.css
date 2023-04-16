@@ -133,6 +133,14 @@ hr {
 .date-5 {
   margin-top: 8px;
 }
+.sourceCode {
+  text-align: center;
+  position: relative;
+  top: 80px;
+}
+.author {
+  color: #fff;
+}
 body {
   background-image: url("/Image/sunset2.jpg");
   background-size: cover;
